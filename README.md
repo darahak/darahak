@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently working as a software engineer at [Dassault Systèmes](https://www.3ds.com/)
+- I'm also a teaching volunteer at [Konexio](https://www.konexio.eu/)
+- My main programming languages are C++ and JavaScript
