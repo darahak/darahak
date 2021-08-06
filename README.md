@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working as a software engineer at [Dassault Systèmes](https://www.3ds.com/)
+- I'm currently working as a software engineer at [DataDome](https://datadome.co/)
 - I'm also a teaching volunteer at [Konexio](https://www.konexio.eu/)
 - My main programming languages are C++ and JavaScript
